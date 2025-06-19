@@ -15,3 +15,6 @@ TOPSIS algorithms
     <img width="60%" src="https://github.com/jkaewprateep/TOPSIS/blob/main/Screenshot%202025-06-18%20153423.png"></br>
     <b> TOPSIS algorithm </b> </br>
 </p>
+
+
+🧸💬 TOPSIS algorithms is a good starting point for the preferred option and can be applied with a regression algorithm or selection task because it allows us to sort by preference number and give different weights for our options. </br>
