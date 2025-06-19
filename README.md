@@ -24,3 +24,13 @@ TOPSIS algorithms
 
 🦭💬 This week he do not given example codes because it is plenty on the Internet and the heart of this games is application now he use TOPSIS to select best model algorithms for trading stocks and application wider in the fields of quality assuarance because we can scores and sort all difference model algorithms into a table with scores. </br>
 🐐💬 IF codes required for example I put it though the reference link and it is work in our setting and environment. </br>
+
+👧💬 🎈 This week we will pace further into the selection algorithm and more next week we will continue. </br>
+🐑💬 ➰ We are in scope of development because we developing code and application this project is similar to our progress with trackings and references. </br>
+
+---
+<p align="center" width="100%">
+    <img width="30%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/custom_dataset.png">
+    <img width="30%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/custom_dataset_2.png"> </br>
+    <b> 🥺💬 รับจ้างเขียน functions </b> </br>
+</p>
