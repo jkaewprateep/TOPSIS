@@ -23,3 +23,4 @@ TOPSIS algorithms
 🦁💬 Selection algorithms can display and explain this is why TOPSIS algorithms and other algorithms in the same patterns are allowed to use for queue management, even a shortcut queue can be explained in TOPSIS algorithms or an application for best selecting a route or select items. </br>
 
 🦭💬 This week he do not given example codes because it is plenty on the Internet and the heart of this games is application now he use TOPSIS to select best model algorithms for trading stocks and application wider in the fields of quality assuarance because we can scores and sort all difference model algorithms into a table with scores. </br>
+🐐💬 IF codes required for example I put it though the reference link and it is work in our setting and environment. </br>
