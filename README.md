@@ -28,7 +28,8 @@ TOPSIS algorithms
 👧💬 🎈 This week we will pace further into the selection algorithm and more next week we will continue. </br>
 🐑💬 ➰ We are in the scope of development because we are developing code and applications. This project is similar to our progress with tracking and references. </br>
 🐑💬 ➰ TOPSIS is a fast algorithm because it updates scores based on input criteria and updates in rows, combined with CPU calculation updates weight with new values input is possible. </br>
-🐐💬 They normalized 🐑💬 ➰ That is why they had operated normalized, a similar row happen?
+🐐💬 They normalized 🐑💬 ➰ That is why they had operated normalized, a similar row happen?</br>
+🐐💬 Do you mean it create similar row or they had similar row 🐑💬 ➰ It save power when you do not need to do normalization but build in command normalize is faster because they do not need to perform the similar row.
 
 ---
 <p align="center" width="100%">
